@@ -24,8 +24,8 @@ public class TicketBookingTest extends Base {
 	@Test
 	public void bookTicket() throws InterruptedException, IOException
 	{		
-		String username = "myUserName1";
-		String password = "MyPassword1";
+		String username = "myUserName";
+		String password = "MyPassword";
 		String source = "PUNE JN - PUNE";
 		String destination = "NAGPUR - NGP"; 
 				
